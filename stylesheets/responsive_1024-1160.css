@@ -1,0 +1,166 @@
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1160px) {
+  body {
+    background-image: url("../images/all_1200.png");
+    background-size: cover;
+  }
+  /* картинки второй части */
+  .iny {
+    width: 29%;
+    left: 14%;
+    top: 66%;
+  }
+  .december {
+    font-size: 156%;
+    left: 3.82%;
+    top: 76.6%;
+  }
+  .snow {
+    width: 42%;
+    left: 2.5%;
+    top: 78%;
+  }
+  .white_tree {
+    width: 26%;
+    left: 66%;
+    top: 69%;
+  }
+  .staron {
+    width: 29%;
+    left: 39%;
+    top: 77%;
+  }
+  .purp {
+    width: 10%;
+    left: 53%;
+    top: 85%;
+  }
+  .cand {
+    width: 17%;
+    left: 29%;
+    top: 84.5%;
+  }
+  .orng {
+    width: 10%;
+    left: 38%;
+    top: 89%;
+  }
+  .blls {
+    width: 20%;
+    left: 47%;
+    top: 86%;
+  }
+  .yellow_mouse {
+    width: 19%;
+    left: 46%;
+    top: 90%;
+  }
+  .green_mouse {
+    width: 21%;
+    left: 28%;
+    top: 92%;
+  }
+  .red_toy {
+    width: 14%;
+    left: 65%;
+    top: 88%;
+  }
+  .shu {
+    width: 13%;
+    height: auto;
+    left: 66%;
+    top: 91%;
+  }
+  .red {
+    width: 31%;
+    left: 51%;
+    top: 94%;
+  }
+  .sck {
+    display: none;
+  }
+  @keyframes iny {
+    0% {left:14%; top:23%;}
+    25% {left:14%; top:43%;}
+    50% {left:14%; top:53%;}
+    75% {left:14%; top:63%;}
+    100% {left:14%; top:66%;}
+  }
+  /* анимация второй части */
+  @keyframes white_tree {
+    0% {left:66%; top:27%;}
+    25% {left:66%; top:37%;}
+    50% {left:66%; top:47%;}
+    75% {left:66%; top:57%;}
+    100% {left:66%; top:69%;}
+  }
+  /* анимация картинок последней части */
+  @keyframes snow {
+    0% {left:2.5%; top:2%;}
+    25% {left:2.5%; top:22%;}
+    50% {left:2.5%; top:32%;}
+    75% {left:2.5%; top:52%;}
+    100% {left:2.5%; top:72%;}
+  }
+  @keyframes staron {
+    0% {
+        transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(360deg);
+    }
+  }
+  @keyframes purp {
+    0% {left:53%; top:15%;}
+    25% {left:53%; top:25%;}
+    50% {left:53%; top:45%;}
+    75% {left:53%; top:65%;}
+    100% {left:53%; top:85%;}
+  }
+  @keyframes blls {
+    0% {left:40%; top:5%;}
+    25% {left:40%; top:10%;}
+    50% {left:40%; top:19%;}
+    75% {left:40%; top:49%;}
+    100% {left:40%; top:79%;}
+  }
+  @keyframes orng {
+    0% {left:38%; top:46%;}
+    25% {left:38%; top:56%;}
+    50% {left:38%; top:66%;}
+    75% {left:38%; top:76%;}
+    100% {left:38%; top:89%;}
+  }
+  @keyframes orng {
+    0% {
+    transform: rotate(0deg);
+    }
+    100% {
+    transform: rotate(360deg);
+    }
+  }
+  @keyframes yellow_mouse {
+    0% {left:46%; top:63%;}
+    25% {left:46%; top:69%;}
+    50% {left:46%; top:75%;}
+    75% {left:46%; top:81%;}
+    100% {left:46%; top:90%;}
+  }
+  @keyframes yellow_mouse {
+    from {top:100%;}
+    to {top:37%;}
+  }
+  @keyframes red_toy {
+    0% {left:65%; top:68%;}
+    25% {left:65%; top:72%;}
+    50% {left:65%; top:76%;}
+    75% {left:65%; top:80%;}
+    100% {left:65%; top:88%;}
+  }
+  @keyframes shu {
+    0% {left:66%; top:9%;}
+    25% {left:66%; top:29%;}
+    50% {left:66%; top:49%;}
+    75% {left:66%; top:69%;}
+    100% {left:66%; top:91%;}
+  }
+}

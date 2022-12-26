@@ -1,0 +1,9 @@
+@media only screen and (min-device-width: 1161px) and (max-device-width: 1279px) {
+  body {
+    background-image: url("../images/all_1280.png");
+    background-size: cover;
+  }
+  .staron {
+    top: 71%;
+  }
+}

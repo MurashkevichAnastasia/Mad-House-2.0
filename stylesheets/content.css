@@ -1,0 +1,883 @@
+
+body {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 60px;
+  height: 97px;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  display: block;
+  background-image: url("../images/all_1280.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: white;
+  /* width: 1280px; */
+  height: 4690px;
+  margin: 0 auto;
+  margin-bottom: 0 auto;
+}
+main {
+  position: relative;
+  display: block;
+  /* width: 1280px; */
+  height: 4682px;
+  overflow: hidden;
+}
+/* тескты 1 части 1280 */
+.mousees {
+  position: absolute;
+  display: block;
+  height: auto;
+  left: 8%;
+  top: 0.73%;
+  transform: rotate(20deg);
+}
+.new {
+  position: absolute;
+  display: block;
+  font-weight: 300;
+  height: auto;
+  left:  35%;
+  top: 4%;
+  transform: rotate(-18deg);
+}
+.on {
+  position: absolute;
+  display: block;
+  font-weight: 300;
+  font-size: 300%;
+  height: auto;
+  left: 28%;
+  top: 5%;
+  transform: rotate(-18deg);
+}
+.crazy {
+  position: absolute;
+  display: block;
+  font-size: 50%;
+  height: auto;
+  left: 53%;
+  top: 2.3%;
+  transform: rotate(20deg);
+}
+.madhouse {
+  position: absolute;
+  display: block;
+  height: auto;
+  left: 57%;
+  top:  8.2%;
+  transform: rotate(-21deg);
+}
+.sculpt {
+  position: absolute;
+  display: block;
+  font-size: 50%;
+  height: auto;
+  left: 3.9%;
+  top: 12.6%;
+  transform: rotate(-51deg);
+}
+.what {
+  position: absolute;
+  display: block;
+  font-weight: 500;
+  font-size: 120%;
+  height: auto;
+  left: 32.8%;
+  top: 22.7%;
+  transform: rotate(-21deg);
+}
+.data_one {
+  position: absolute;
+  display: block;
+  font-weight: 500;
+  font-size: 100%;
+  height: auto;
+  left: 86%;
+  top: 14.3%;
+  transform: rotate(6deg);
+}
+.mth {
+  position: absolute;
+  display: block;
+  font-size: 100%;
+  height: auto;
+  left: 63.5%;
+  top: 26.3%;
+  transform: rotate(20deg);
+}
+.onthen {
+  position: absolute;
+  display: block;
+  width: 100%;
+  font-size: 120%;
+  height: auto;
+  left: 25%;
+  top: 13%;
+  transform: rotate(11deg);
+}
+.make {
+  position: absolute;
+  display: block;
+  font-size: 50%;
+  height: auto;
+  left: 3.6%;
+  top: 32%;
+  transform: rotate(3deg);
+}
+/* картинки 1 части 1280 */
+.fonts {
+  position: absolute;
+  display: block;
+  width: 30%;
+  height: auto;
+  left: 20%;
+  top: 39%;
+  animation-name: fonts;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.nora {
+  position: absolute;
+  display: block;
+  width: 38%;
+  height: auto;
+  left: 30.3%;
+  top: 9.5%;
+}
+.garland {
+  position: absolute;
+  display: block;
+  width: 24%;
+  height: auto;
+  left: 68%;
+  top: 0%;
+  animation: garland 5s linear 1;
+}
+.orange {
+  position: absolute;
+  display: block;
+  width: 10%;
+  height: auto;
+  left: 41%;
+  top: 0.1%;
+  animation: orange 4s linear 1;
+}
+.sweet_home {
+  position: absolute;
+  display: block;
+  width: 13%;
+  height: auto;
+  left: 25%;
+  top: 1.67%;
+  animation: sweet_home 6s linear 1;
+}
+.ball {
+  position: absolute;
+  display: block;
+  width: 18%;
+  height: auto;
+  left: 5.54%;
+  top: 1.43%;
+  animation: ball 5s linear 1;
+}
+.bells {
+  position: absolute;
+  display: block;
+  width: 16%;
+  height: auto;
+  left: 53.5%;
+  top: 3.5%;
+  transition: transform .8s ease-in-out;
+  animation: bells 5s linear 1;
+}
+.bells:hover {
+  transform: rotate(-360deg);
+}
+.sock {
+  position: absolute;
+  display: block;
+  width: 17%;
+  height: auto;
+  left: 77.5%;
+  top: 6.5%;
+  animation: sock 5s linear 1;
+}
+.star {
+  position: absolute;
+  display: block;
+  width: 26%;
+  height: auto;
+  left: 60%;
+  top: 11.6%;
+  animation: star 30s linear 1;
+}
+.candy {
+  position: absolute;
+  display: block;
+  width: 17%;
+  height: auto;
+  left: 75%;
+  top: 19.2%;
+  animation: candy 9s linear 1;
+}
+
+.glassball {
+  position: absolute;
+  display: block;
+  width: 14%;
+  height: auto;
+  left: 37.4%;
+  top: 6.47%;
+  animation: glassball 10s linear 1;
+}
+.little_sock {
+  position: absolute;
+  display: block;
+  width: 13%;
+  height: auto;
+  left: 7.89%;
+  top: 6.81%;
+  animation: little_sock 7s linear 1;
+}
+.snowman {
+  position: absolute;
+  display: block;
+  width: 48%;
+  height: auto;
+  left: 8%;
+  top: 11%;
+  transition: transform .8s ease-in-out;
+  animation: snowman 10s linear 1;
+}
+.snowman:hover {
+  transform: rotate(360deg);
+}
+.tree {
+  position: absolute;
+  display: block;
+  width: 23%;
+  height: auto;
+  left: 7%;
+  top: 24%;
+  animation: tree 10s linear 1;
+}
+.spiral {
+  position: absolute;
+  display: block;
+  width: 15%;
+  height: auto;
+  left: 44%;
+  top: 25%;
+  animation: spiral 13s linear 1;
+}
+.house {
+  position: absolute;
+  display: block;
+  width: 13%;
+  height: auto;
+  left: 70%;
+  top: 32%;
+  animation: house 15s linear 1;
+}
+.orange_down {
+  position: absolute;
+  display: block;
+  width: 10%;
+  height: auto;
+  left: 82%;
+  top: 26%;
+  animation: orange_down 17s linear 1;
+}
+
+/* текст второй части 1280px */
+.pick {
+  position: absolute;
+  display: block;
+  font-weight: 300;
+  font-size: 55%;
+  height: auto;
+  left: 40.15%;
+  top: 38.7%;
+  transform: rotate(36deg);
+}
+.i {
+  position: absolute;
+  display: block;
+  font-size: 300%;
+  height: auto;
+  left: 10.6%;
+  top: 46.6%;
+  transform: rotate(-18deg);
+}
+.ii {
+  position: absolute;
+  display: block;
+  font-size: 350%;
+  height: auto;
+  left: 38.75%;
+  top: 57.4%;
+  animation-name: ii;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+/* картинки второго блока 1280 */
+.garland_full {
+  position: absolute;
+  display: block;
+  width: 21%;
+  height: auto;
+  left: 41%;
+  top: 31%;
+  animation: garland_full 16s linear 1;
+}
+.window {
+  position: absolute;
+  display: block;
+  width: 30%;
+  height: auto;
+  left: 7%;
+  top: 34%;
+  animation: window 15s linear 1;
+}
+.mouse {
+  position: absolute;
+  display: block;
+  width: 25%;
+  height: auto;
+  left: 66%;
+  top: 37%;
+  transition: transform .8s ease-in-out;
+  /* animation: mouse 11s linear 1; */
+}
+.mouse:hover {
+  transform: scale(0.5);
+}
+.swe_house {
+  position: absolute;
+  display: block;
+  width: 18%;
+  height: auto;
+  left: 42%;
+  top: 43%;
+  transition: transform .8s ease-in-out;
+  animation: swe_house 11s linear 1;
+}
+.swe_house:hover {
+  transform: rotate(360deg);
+}
+.orange_two {
+  position: absolute;
+  display: block;
+  width: 11%;
+  height: auto;
+  left: 48%;
+  top: 49%;
+  animation: orange_two 12s linear 1;
+}
+.wdm {
+  position: absolute;
+  display: block;
+  width: 37%;
+  height: auto;
+  left: 51%;
+  top: 54%;
+  animation: wdm 17s linear 1;
+}
+.white_three {
+  position: absolute;
+  display: block;
+  width: 25%;
+  height: auto;
+  left: 70%;
+  top: 48%;
+  animation: white_three 13s linear 1;
+}
+.mouses {
+  position: absolute;
+  display: block;
+  width: 27%;
+  height: auto;
+  left: 6%;
+  top: 48%;
+  animation: mouses 13s linear 1;
+}
+.purple_star {
+  position: absolute;
+  display: block;
+  width: 18%;
+  height: auto;
+  left: 74%;
+  top: 59%;
+  animation: purple_star 15s linear 1;
+  animation: purple_star 1.5s alternate infinite ease-in;
+}
+.iny {
+  position: absolute;
+  display: block;
+  width: 27%;
+  height: auto;
+  left: 15%;
+  top: 63%;
+  animation: iny 15s linear 1;
+}
+.circle_window {
+  position: absolute;
+  display: block;
+  width: 20%;
+  height: auto;
+  left: 54%;
+  top: 63%;
+  animation: circle_window 15s linear 1;
+}
+/* текст последнего блока 1280 */
+.december {
+  position: absolute;
+  display: block;
+  font-weight: 500;
+  font-size: 170%;
+  height: auto;
+  left: 3.82%;
+  top: 70.4%;
+}
+.data_two {
+  position: absolute;
+  display: block;
+  font-weight: 500;
+  font-size: 250%;
+  height: auto;
+  left: 77%;
+  top: 77.6%;
+}
+.decorate {
+  position: absolute;
+  display: block;
+  font-weight: 300;
+  font-size: 60%;
+  height: auto;
+  left: 16%;
+  top: 84%;
+  transform: rotate(-22deg);
+}
+/* картинки последней части */
+.little_snow {
+  position: absolute;
+  display: block;
+  width: 15%;
+  height: auto;
+  left: 77%;
+  top: 80%;
+  animation: little_snow 15s linear 1;
+}
+.white_tree {
+  position: absolute;
+  display: block;
+  width: 29%;
+  height: auto;
+  left: 72%;
+  top: 67%;
+  animation: white_tree 15s linear 1;
+}
+.snow {
+  position: absolute;
+  display: block;
+  width: 42%;
+  height: auto;
+  left: 2.5%;
+  top: 72%;
+  animation: snow 16s linear 1;
+}
+.staron {
+  position: absolute;
+  display: block;
+  width: 32%;
+  height: auto;
+  left: 35%;
+  top: 70%;
+  animation-name: staron;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.cand {
+  position: absolute;
+  display: block;
+  width: 20%;
+  height: auto;
+  left: 25%;
+  top: 78.5%;
+  animation: cand 15s linear 1;
+}
+.purp {
+  position: absolute;
+  display: block;
+  width: 15%;
+  height: auto;
+  left: 51%;
+  top: 80%;
+  animation: purp 15s linear 1;
+}
+.blls {
+  position: absolute;
+  display: block;
+  width: 25%;
+  height: auto;
+  left: 40%;
+  top: 79%;
+  animation: blls 17s linear 1;
+}
+.orng {
+  position: absolute;
+  display: block;
+  width: 13%;
+  height: auto;
+  left: 28%;
+  top: 86%;
+  animation: orng 5s infinite linear;
+}
+.yellow_mouse {
+  position: absolute;
+  display: block;
+  width: 25%;
+  height: auto;
+  left: 39%;
+  top: 86%;
+  transition: transform .5s ease-in-out;
+  /* animation: yellow_mouse 10s linear 1; */
+}
+.yellow_mouse:hover {
+  transform: scale(0.5);
+}
+.red_toy {
+  position: absolute;
+  display: block;
+  width: 22%;
+  height: auto;
+  left: 63%;
+  top: 84%;
+  animation: red_toy 27s linear 1;
+}
+.sck {
+  position: absolute;
+  display: block;
+  width: 23%;
+  height: auto;
+  left: 11%;
+  top: 90%;
+  animation: sck 30s linear 1;
+}
+.green_mouse {
+  position: absolute;
+  display: block;
+  width: 25%;
+  height: auto;
+  left: 30%;
+  top: 92%;
+  transition: transform .5s ease-in-out;
+  /* animation: green_mouse 30s linear 1; */
+}
+.green_mouse:hover {
+  transform: scale(1.5);
+}
+.shu {
+  position: absolute;
+  display: block;
+  width: 17%;
+  height: auto;
+  left: 66%;
+  top: 89%;
+  animation: shu 30s linear 1;
+}
+.red {
+  position: absolute;
+  display: block;
+  width: 35%;
+  height: auto;
+  left: 52%;
+  top: 94%;
+  /* animation: red 30s linear 1; */
+  animation: red 2s infinite;
+  animation: red 1.5s alternate infinite ease-in;
+}
+.red:hover {
+  transform: rotate(360deg);
+}
+
+/* анимация 1280
+анимация картинок 1 части 1280px */
+@keyframes fonts {
+  0% {
+    transform:rotate(0deg);
+  }
+  100% {
+    transform:rotate(360deg);
+  }
+}
+@keyframes garland {
+  0% {left:68%; top:-4.5%;}
+  50% {left:68%; top:-2%;}
+  100% {left:68%; top:0%;}
+}
+@keyframes orange {
+  0% {left:41%; top:-2.5%;}
+  50% {left:41%; top:-0.9%;}
+  100% {left:41%; top:0.1%;}
+}
+@keyframes sweet_home {
+  0% {left:25%; top:-1.8%;}
+  50% {left:25%; top:0.17%;}
+  100% {left:25%; top:1.67%%;}
+}
+@keyframes ball {
+  0% {left:5.54%; top:-4%;}
+  50% {left:5.54%; top:-1.07%;}
+  100% {left:5.54%; top:1.43%;}
+}
+@keyframes bells {
+  0% {left:53.5%; top:-2.5%;}
+  50% {left:53.5%; top:1.5%;}
+  100% {left:53.5%; top:3.5%;}
+}
+@keyframes sock {
+  0% {left:77.5%; top:0.5%;}
+  50% {left:77.5%; top:3.5%;}
+  100% {left:77.5%; top:6.5%;}
+}
+@keyframes star {
+  0% {left:60%; top:-8.4%;}
+  50% {left:60%; top:3.6%;}
+  100% {left:60%; top:11.6%;}
+}
+@keyframes candy {
+  0% {left:75%; top:-0.8%;}
+  50% {left:75%; top:9.2%;}
+  100% {left:75%; top:19.2%;}
+}
+@keyframes glassball {
+  0% {left:37.4%; top:-3.53%;}
+  50% {left:37.4%; top:1.47%;}
+  100% {left:37.4%; top:6.47%;}
+}
+@keyframes little_sock {
+  0% {left:7.89%; top:-5.19%;}
+  50% {left:7.89%; top:0.81%;}
+  100% {left:7.89%; top:6.81%;}
+}
+@keyframes snowman {
+  0% {left:8%; top:-14%;}
+  25% {left:8%; top:-4%;}
+  50% {left:8%; top:1%;}
+  75% {left:8%; top:6%;}
+  100% {left:8%; top:11%;}
+}
+@keyframes tree {
+  0% {left:7%; top:-24%;}
+  25% {left:7%; top:-8%;}
+  50% {left:7%; top:8%;}
+  75% {left:7%; top:16%;}
+  100% {left:7%; top:24%;}
+}
+@keyframes spiral {
+  0% {left:44%; top:-7%;}
+  25% {left:44%; top:1%;}
+  50% {left:44%; top:9%;}
+  75% {left:44%; top:17%;}
+  100% {left:44%; top:25%;}
+}
+@keyframes house {
+  0% {left:70%; top:8%;}
+  25% {left:70%; top:14%;}
+  50% {left:70%; top:20%;}
+  75% {left:70%; top:26%;}
+  100% {left:70%; top:32%;}
+}
+@keyframes orange_down {
+  0% {left:82%; top:-24%;}
+  25% {left:82%; top:-8%;}
+  50% {left:82%; top:8%;}
+  75% {left:82%; top:17%;}
+  100% {left:82%; top:26%;}
+}
+/* анимация картинок второго блока 1280px */
+/* анимация текста второй части */
+@keyframes ii {
+  0% {
+      transform:rotate(0deg);
+  }
+    100% {
+      transform:rotate(360deg);
+  }
+}
+@keyframes garland_full {
+  0% {left:41%; top:3%;}
+  25% {left:41%; top:10%;}
+  50% {left:41%; top:17%;}
+  75% {left:41%; top:24%;}
+  100% {left:41%; top:31%;}
+}
+@keyframes garland_full {
+  from {left: -20%;}
+  to {left: 41%;}
+}
+@keyframes window {
+  0% {left:7%; top:-2%;}
+  25% {left:7%; top:10%;}
+  50% {left:7%; top:18%;}
+  75% {left:7%; top:26%;}
+  100% {left:7%; top:34%;}
+}
+@keyframes swe_house {
+  0% {left:42%; top:-11%;}
+  25% {left:42%; top:7%;}
+  50% {left:42%; top:25%;}
+  75% {left:42%; top:34%;}
+  100% {left:42%; top:43%;}
+}
+@keyframes orange_two {
+  0% {left:48%; top:-21%;}
+  25% {left:48%; top:-1%;}
+  50% {left:48%; top:29%;}
+  75% {left:48%; top:39%;}
+  100% {left:48%; top:49%;}
+}
+@keyframes wdm {
+  0% {left:51%; top:9%;}
+  25% {left:51%; top:25%;}
+  50% {left:51%; top:41%;}
+  75% {left:51%; top:49%;}
+  100% {left:51%; top:54%;}
+}
+@keyframes white_three {
+  0% {left:70%; top:16%;}
+  25% {left:70%; top:24%;}
+  50% {left:70%; top:32%;}
+  75% {left:70%; top:40%;}
+  100% {left:70%; top:48%;}
+}
+@keyframes mouses {
+  from {top:150%;}
+  to {top:48%;}
+}
+@keyframes purple_star {
+  0% {left:56%; top:-10%;}
+  25% {left:56%; top:10%;}
+  50% {left:56%; top:30%;}
+  75% {left:56%; top:50%;}
+  100% {left:56%; top:70%;}
+}
+@keyframes purple_star {
+  0%   {transform: scale(.8);}
+  100% {transform: scale(1.5);}
+}
+@keyframes iny {
+  0% {left:15%; top:20%;}
+  25% {left:15%; top:40%;}
+  50% {left:15%; top:50%;}
+  75% {left:15%; top:60%;}
+  100% {left:15%; top:63%;}
+}
+@keyframes circle_window {
+  0% {left:54%; top:23%;}
+  25% {left:54%; top:33%;}
+  50% {left:54%; top:43%;}
+  75% {left:54%; top:53%;}
+  100% {left:54%; top:63%;}
+}
+@keyframes little_snow {
+  0% {left:77%; top:40%;}
+  25% {left:77%; top:50%;}
+  50% {left:77%; top:60%;}
+  75% {left:77%; top:70%;}
+  100% {left:77%; top:80%;}
+}
+@keyframes white_tree {
+  0% {left:72%; top:27%;}
+  25% {left:72%; top:37%;}
+  50% {left:72%; top:47%;}
+  75% {left:72%; top:57%;}
+  100% {left:72%; top:67%;}
+}
+/* анимация картинок последней части */
+@keyframes snow {
+  0% {left:2.5%; top:2%;}
+  25% {left:2.5%; top:22%;}
+  50% {left:2.5%; top:32%;}
+  75% {left:2.5%; top:52%;}
+  100% {left:2.5%; top:72%;}
+}
+@keyframes staron {
+  0% {
+      transform:rotate(0deg);
+  }
+  100% {
+      transform:rotate(360deg);
+  }
+}
+@keyframes purp {
+  0% {left:51%; top:10%;}
+  25% {left:51%; top:20%;}
+  50% {left:51%; top:40%;}
+  75% {left:51%; top:60%;}
+  100% {left:51%; top:80%;}
+}
+@keyframes blls {
+  0% {left:40%; top:5%;}
+  25% {left:40%; top:10%;}
+  50% {left:40%; top:19%;}
+  75% {left:40%; top:49%;}
+  100% {left:40%; top:79%;}
+}
+@keyframes orng {
+  0% {left:28%; top:46%;}
+  25% {left:28%; top:56%;}
+  50% {left:28%; top:66%;}
+  75% {left:28%; top:76%;}
+  100% {left:28%; top:86%;}
+}
+@keyframes orng {
+  0% {
+  transform: rotate(0deg);
+  }
+  100% {
+  transform: rotate(360deg);
+  }
+}
+@keyframes yellow_mouse {
+  0% {left:39%; top:62%;}
+  25% {left:39%; top:68%;}
+  50% {left:39%; top:74%;}
+  75% {left:39%; top:80%;}
+  100% {left:39%; top:86%;}
+}
+@keyframes yellow_mouse {
+  from {top:100%;}
+  to {top:37%;}
+}
+@keyframes red_toy {
+  0% {left:63%; top:68%;}
+  25% {left:63%; top:72%;}
+  50% {left:63%; top:76%;}
+  75% {left:63%; top:80%;}
+  100% {left:63%; top:84%;}
+}
+@keyframes sck {
+  0% {left:11%; top:50%;}
+  25% {left:11%; top:60%;}
+  50% {left:11%; top:70%;}
+  75% {left:11%; top:80%;}
+  100% {left:11%; top:90%;}
+}
+@keyframes shu {
+  0% {left:66%; top:9%;}
+  25% {left:66%; top:29%;}
+  50% {left:66%; top:49%;}
+  75% {left:66%; top:69%;}
+  100% {left:66%; top:89%;}
+}
+@keyframes red {
+  0%   {transform: scale(.8);}
+  100% {transform: scale(1.2);}
+}

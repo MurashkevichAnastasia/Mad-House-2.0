@@ -1,0 +1,426 @@
+@media only screen and (min-width: 834px) and (max-width: 1023px) {
+  body {
+    background-image: url("../images/all_833.png");
+    background-size: cover;
+  }
+  /* шрифты первой части  */
+  .new {
+    font-size: 75%;
+    left: 34%;
+    top: 5%;
+  }
+  .what {
+    font-size: 103%;
+    left: 31.8%;
+    top: 20.7%;
+  }
+  .data_one {
+    font-size: 75%;
+    left: 81%;
+    top: 17.3%;
+  }
+  .crazy {
+    left: 59%;
+    top: 3.3%;
+  }
+  .sculpt {
+    left: 0.9%;
+    top: 12.6%;
+  }
+  .madhouse {
+    font-size: 75%;
+    left: 54%;
+  }
+  .onthen {
+    font-size: 85%;
+    left: 26%;
+    top: 12%;
+  }
+  /* картинки первой части */
+  .ball {
+    width: 19%;
+    left: 6.54%;
+    top: 1.43%;
+  }
+  .sweet_home {
+    width: 17%;
+    left: 29%;
+    top: 1.67%;
+  }
+  .bells {
+    left: 56.5%;
+    top: 4.5%;
+  }
+  .little_sock {
+    width: 19%;
+    left: 4.89%;
+    top: 6.81%;
+  }
+  .snowman {
+    width: 50%;
+    left: 11%;
+    top: 12%;
+  }
+  .candy {
+    left: 78%;
+    top: 21.2%;
+  }
+  .tree {
+    width: 26%;
+    left: 7%;
+    top: 22%;
+  }
+  .orange_down {
+    top: 29%;
+  }
+  /* тексты второй части */
+  .make {
+    font-size: 41%;
+    left: 3.6%;
+    top: 30%;
+  }
+  .ii {
+    left: 44.75%;
+  }
+/* картинки второй части */
+  .garland_full {
+    width: 25%;
+    left: 45%;
+  }
+  .window {
+    width: 34%;
+  }
+  .fonts {
+    width: 30%;
+    left: 15%;
+    top: 38%;
+  }
+  .swe_house {
+    width: 22%;
+    left: 28%;
+    top: 41%;
+  }
+  .house {
+    left: 78%;
+    top: 33%;
+  }
+  .mouse {
+    width: 30%;
+    left: 64%;
+  }
+  .orange_two {
+    left: 42%;
+    top: 48%;
+  }
+  .white_three {
+    width: 34%;
+    left: 59%;
+    top: 45%;
+  }
+  .wdm {
+    width: 43%;
+    left: 42%;
+    top: 53%;
+  }
+  .mouses {
+    width: 29%;
+    left: 7%;
+    top: 48%;
+  }
+  .purple_star {
+    width: 18%;
+    left: 68%;
+    top: 61%;
+  }
+  .iny {
+    width: 34%;
+    left: 15%;
+    top: 62%;
+  }
+  .circle_window {
+    width: 26%;
+    left: 31%;
+    top: 67%;
+  }
+  .white_tree {
+    width: 33%;
+    left: 64%;
+    top: 70%;
+  }
+  /* текст последней части */
+  .december {
+    font-size: 141%;
+    left: 3.82%;
+    top: 76.7%;
+  }
+  .decorate {
+    left: 3%;
+  }
+  .data_two {
+    font-size: 193%;
+    left: 79%;
+    top: 87.6%;
+  }
+  /* картинки последней части */
+  .snow {
+    width: 39%;
+    left: 2.5%;
+    top: 78%;
+  }
+  .little_snow {
+    width: 15%;
+    left: 79%;
+    top: 89.6%;
+  }
+  .staron {
+    left: 35%;
+    top: 83%;
+  }
+  .purp {
+    left: 51%;
+    top: 89%;
+  }
+  .cand {
+    width: 16%;
+    left: 27%;
+    top: 89.5%;
+  }
+  .purp {
+    width: 11%;
+    left: 44%;
+    top: 89%;
+  }
+  .blls {
+    width: 18%;
+    left: 42%;
+    top: 89.5%;
+  }
+  .orng {
+    width: 11%;
+    left: 32%;
+    top: 93%;
+  }
+  .yellow_mouse {
+    left: 41%;
+    top: 92%;
+  }
+  .green_mouse {
+    left: 30%;
+    top: 95%;
+  }
+  .sck {
+    left: 11%;
+    top: 95%;
+  }
+  .red_toy {
+    width: 17%;
+    left: 57%;
+    top: 90%;
+  }
+  .shu {
+    width: 14%;
+    left: 64%;
+    top: 93%;
+  }
+  .red {
+    top: 96%;
+  }
+  /* анимация первой части */
+  @keyframes ball {
+    0% {left:6.54%; top:-4%;}
+    50% {left:6.54%; top:-1.07%;}
+    100% {left:6.54%; top:1.43%;}
+  }
+  @keyframes sweet_home {
+    0% {left:29%; top:-1.8%;}
+    50% {left:29%; top:0.17%;}
+    100% {left:29%; top:1.67%;}
+  }
+  @keyframes bells {
+    0% {left:56.5%; top:-1.5%;}
+    50% {left:56.5%; top:2.5%;}
+    100% {left:56.5%; top:4.5%;}
+  }
+  @keyframes little_sock {
+    0% {left:4.89%; top:-5.19%;}
+    50% {left:4.89%; top:0.81%;}
+    100% {left:4.89%; top:6.81%;}
+  }
+  @keyframes snowman {
+    0% {left:11%; top:-14%;}
+    25% {left:11%; top:-4%;}
+    50% {left:11%; top:1%;}
+    75% {left:11%; top:6%;}
+    100% {left:11%; top:12%;}
+  }
+  @keyframes candy {
+    0% {left:75%; top:-0.8%;}
+    50% {left:75%; top:9.2%;}
+    100% {left:75%; top:21.2%;}
+  }
+  @keyframes tree {
+    0% {left:7%; top:-24%;}
+    25% {left:7%; top:-8%;}
+    50% {left:7%; top:8%;}
+    75% {left:7%; top:16%;}
+    100% {left:7%; top:22%;}
+  }
+  @keyframes orange_down {
+    0% {left:82%; top:-24%;}
+    25% {left:82%; top:-8%;}
+    50% {left:82%; top:8%;}
+    75% {left:82%; top:17%;}
+    100% {left:82%; top:29%;}
+  }
+  /* анимация картинок второго блока 1280px */
+  @keyframes garland_full {
+    0% {left:45%; top:3%;}
+    25% {left:45%; top:10%;}
+    50% {left:45%; top:17%;}
+    75% {left:45%; top:24%;}
+    100% {left:45%; top:31%;}
+  }
+  @keyframes swe_house {
+    0% {left:28%; top:-11%;}
+    25% {left:28%; top:7%;}
+    50% {left:28%; top:25%;}
+    75% {left:28%; top:34%;}
+    100% {left:28%; top:41%;}
+  }
+  @keyframes house {
+    0% {left:78%; top:8%;}
+    25% {left:78%; top:14%;}
+    50% {left:78%; top:20%;}
+    75% {left:78%; top:26%;}
+    100% {left:78%; top:33%;}
+  }
+  @keyframes orange_two {
+    0% {left:42%; top:-21%;}
+    25% {left:42%; top:-1%;}
+    50% {left:42%; top:29%;}
+    75% {left:42%; top:39%;}
+    100% {left:42%; top:48%;}
+  }
+  @keyframes wdm {
+    0% {left:42%; top:9%;}
+    25% {left:42%; top:25%;}
+    50% {left:42%; top:41%;}
+    75% {left:42%; top:49%;}
+    100% {left:42%; top:53%;}
+  }
+  @keyframes white_three {
+    0% {left:59%; top:16%;}
+    25% {left:59%; top:24%;}
+    50% {left:59%; top:32%;}
+    75% {left:59%; top:40%;}
+    100% {left:59%; top:45%;}
+  }
+  @keyframes mouses {
+    from {top:150%;}
+    to {top:48%;}
+  }
+  @keyframes purple_star {
+    0% {left:68%; top:-9%;}
+    25% {left:68%; top:19%;}
+    50% {left:68%; top:39%;}
+    75% {left:68%; top:49%;}
+    100% {left:68%; top:61%;}
+  }
+  @keyframes purple_star {
+    0%   {transform: scale(.8);}
+    100% {transform: scale(1.5);}
+  }
+  @keyframes iny {
+    0% {left:15%; top:20%;}
+    25% {left:15%; top:40%;}
+    50% {left:15%; top:50%;}
+    75% {left:15%; top:60%;}
+    100% {left:15%; top:62%;}
+  }
+  @keyframes circle_window {
+    0% {left:31%; top:23%;}
+    25% {left:31%; top:33%;}
+    50% {left:31%; top:43%;}
+    75% {left:31%; top:53%;}
+    100% {left:31%; top:67%;}
+  }
+  @keyframes little_snow {
+    0% {left:79%; top:49.6%;}
+    25% {left:79%; top:59.6%;}
+    50% {left:79%; top:69.6%;}
+    75% {left:79%; top:79.6%;}
+    100% {left:79%; top:89.6%;}
+  }
+  @keyframes white_tree {
+    0% {left:64%; top:27%;}
+    25% {left:64%; top:37%;}
+    50% {left:64%; top:47%;}
+    75% {left:64%; top:57%;}
+    100% {left:64%; top:70%;}
+  }
+  /* анимация картинок последней части */
+  @keyframes snow {
+    0% {left:2.5%; top:8%;}
+    25% {left:2.5%; top:28%;}
+    50% {left:2.5%; top:38%;}
+    75% {left:2.5%; top:58%;}
+    100% {left:2.5%; top:78%;}
+  }
+  @keyframes purp {
+    0% {left:51%; top:19%;}
+    25% {left:51%; top:29%;}
+    50% {left:51%; top:49%;}
+    75% {left:51%; top:69%;}
+    100% {left:51%; top:89%;}
+  }
+  @keyframes blls {
+    0% {left:42%; top:5%;}
+    25% {left:42%; top:10%;}
+    50% {left:42%; top:29%;}
+    75% {left:42%; top:59%;}
+    100% {left:42%; top:89.5}
+  }
+  @keyframes orng {
+    0% {left:32%; top:49%;}
+    25% {left:32%; top:59%;}
+    50% {left:32%; top:69%;}
+    75% {left:32%; top:79%;}
+    100% {left:32%; top:93%;}
+  }
+  @keyframes orng {
+    0% {
+    transform: rotate(0deg);
+    }
+    100% {
+    transform: rotate(360deg);
+    }
+  }
+  @keyframes yellow_mouse {
+    0% {left:41%; top:68%;}
+    25% {left:41%; top:74%;}
+    50% {left:41%; top:81%;}
+    75% {left:41%; top:86%;}
+    100% {left:41%; top:92%;}
+  }
+  @keyframes red_toy {
+    0% {left:57%; top:74%;}
+    25% {left:57%; top:78%;}
+    50% {left:57%; top:82%;}
+    75% {left:57%; top:86%;}
+    100% {left:57%; top:90%;}
+  }
+  @keyframes sck {
+    0% {left:11%; top:55%;}
+    25% {left:11%; top:65%;}
+    50% {left:11%; top:75%;}
+    75% {left:11%; top:85%;}
+    100% {left:11%; top:95%;}
+  }
+  @keyframes shu {
+    0% {left:64%; top:9%;}
+    25% {left:64%; top:29%;}
+    50% {left:64%; top:49%;}
+    75% {left:64%; top:69%;}
+    100% {left:64%; top:93%;}
+  }
+}
