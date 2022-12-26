@@ -1,0 +1,188 @@
+@media only screen and (min-width: 1440px) and (max-width: 1695px) {
+  body {
+    background-image: url("../images/all_1920.png");
+  }
+  /* тексты первой части */
+  .sculpt {
+    left: 1.9%;
+    top: 13.8%;
+  }
+  .on {
+    left: 31%;
+    top: 7%;
+  }
+  .new {
+    top: 4%;
+    left: 38%;
+  }
+  .onthen {
+    left: 30%;
+    top: 14%;
+  }
+  .make {
+    left: 3.6%;
+    top: 33.2%;
+  }
+  .crazy {
+    left: 59%;
+    top: 3.5%;
+  }
+  .pick
+  .madhouse {
+    left: 59%;
+    top: 9%;
+  }
+  .what {
+    left: 36.8%;
+    top: 23.7%;
+  }
+  .data_one {
+    top: 14.3%;
+    left: 81%;
+  }
+  /* картинки первой части */
+  .sock {
+    left: 72.5%;
+    top: 7.5%;
+  }
+  .star {
+    width: 18%;
+    left: 64%;
+    top: 14%;
+  }
+  /* тексты второй части */
+  .make {
+    left: 13.6%;
+    top: 35%;
+  }
+  .pick {
+    left: 41.15%;
+    top: 39.7%;
+  }
+  /* картинки второй части */
+  .mouse {
+    width: 19%;
+    left: 67%;
+    top: 41%;
+  }
+  .white_tree {
+    width: 23%;
+    left: 72%;
+    top: 68%;
+  }
+  /* тексты последней части */
+  .december {
+    left: 7.82%;
+    top: 71.4%;
+  }
+  .decorate {
+    left: 8%;
+    top: 82%;
+  }
+  .data_two {
+    left: 75%;
+    top: 82.6%;
+  }
+  /* картинки последней части */
+  .snow {
+    width: 31%;
+    left: 6.5%;
+    top: 73%;
+  }
+  .little_snow {
+    width: 12%;
+    left: 74%;
+    top: 85%;
+  }
+  .staron {
+    left: 31%;
+    top: 71%;
+  }
+  .purp {
+    width: 11%;
+    left: 47%;
+    top: 81.5%;
+  }
+  .blls {
+    width: 17%;
+    left: 42%;
+    top: 82%;
+  }
+  .cand {
+    width: 15%;
+    left: 29%;
+    top: 81.5%;
+  }
+  .red_toy {
+    width: 16%;
+    left: 56%;
+    top: 85%;
+  }
+  .shu {
+    width: 13%;
+    left: 61%;
+    top: 90.5%;
+  }
+  /* анимация первой части */
+  @keyframes sock {
+    0% {left:72.5%; top:0.5%;}
+    50% {left:72.5%; top:3.5%;}
+    100% {left:72.5%; top:7.5%;}
+  }
+  @keyframes star {
+    0% {left:64%; top:-6%;}
+    50% {left:64%; top:4%;}
+    100% {left:64%; top:14%;}
+  }
+  /* анимация второй части */
+  @keyframes white_tree {
+    0% {left:72%; top:27%;}
+    25% {left:72%; top:37%;}
+    50% {left:72%; top:47%;}
+    75% {left:72%; top:57%;}
+    100% {left:72%; top:68%;}
+  }
+  /* анимация последней части */
+  @keyframes snow {
+    0% {left:6.5%; top:2%;}
+    25% {left:6.5%; top:22%;}
+    50% {left:6.5%; top:32%;}
+    75% {left:6.5%; top:52%;}
+    100% {left:6.5%; top:73%;}
+  }
+  @keyframes little_snow {
+    0% {left:74%; top:45%;}
+    25% {left:74%; top:55%;}
+    50% {left:74%; top:65%;}
+    75% {left:74%; top:75%;}
+    100% {left:74%; top:85%;}
+  }
+  @keyframes purp {
+    0% {left:47%; top:11.5%;}
+    25% {left:47%; top:21.5%;}
+    50% {left:47%; top:41.5%;}
+    75% {left:47%; top:61.5%;}
+    100% {left:47%; top:81.5%;}
+  }
+  @keyframes blls {
+    0% {left:42%; top:5%;}
+    25% {left:42%; top:10%;}
+    50% {left:42%; top:19%;}
+    75% {left:42%; top:49%;}
+    100% {left:42%; top:82%;}
+  }
+  @keyframes red_toy {
+    0% {left:56%; top:68%;}
+    25% {left:56%; top:72%;}
+    50% {left:56%; top:76%;}
+    75% {left:56%; top:80%;}
+    100% {left:56%; top:85%;}
+  }
+  @keyframes shu {
+    0% {left:61%; top:9.5%;}
+    25% {left:61%; top:29.5%;}
+    50% {left:61%; top:49.5%;}
+    75% {left:61%; top:69.5%;}
+    100% {left:61%; top:90.5%;}
+  }
+}
